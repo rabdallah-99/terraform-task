@@ -12,6 +12,7 @@ provider "aws" {
   # Configuration options
 	#profile = "default"
 	region  = "eu-west-2"
+	# Credentials are removed just update with valid ones
 	access_key = ""
 	secret_key = ""
 }
